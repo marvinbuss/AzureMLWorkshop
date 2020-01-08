@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.sqlite
+/Solutions/Bonus/.ipynb_checkpoints
+/Solutions/1. Challenge/.ipynb_checkpoints
