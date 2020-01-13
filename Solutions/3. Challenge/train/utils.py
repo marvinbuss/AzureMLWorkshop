@@ -250,6 +250,7 @@ def init_distributed_mode(args):
     #torch.cuda.set_device(args.gpu)
     '''
     args.distributed = args.world_size >= 2
+    print('Distributed: ', args.distributed)
     
     if args.distributed:
         print('| distributed init (rank {}) (backend {}): {}'.format(args.rank, args.dist_backend, args.dist_url), flush=True)
