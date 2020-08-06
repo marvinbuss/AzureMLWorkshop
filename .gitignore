@@ -7,6 +7,7 @@
 /Solutions/1. Challenge/.ipynb_checkpoints
 *.suo
 /.vs
+/.azureml
 /Solutions/2. Challenge/.ipynb_checkpoints
 /Solutions/1. Challenge/train
 /Solutions/2. Challenge/train
