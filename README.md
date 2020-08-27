@@ -17,12 +17,12 @@ Apart from that, everything will be executed in a standard web browser and no lo
 
 To run through the challenges, you first need to provision an Azure Machine Learning workspace within the Azure Portal (https://portal.azure.com). If you need help with this step, see [here](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-1st-experiment-sdk-setup) for a walkthrough.
 
-### Provision Notebook VM
+### Provision Compute Instance
 
-While you can easily run the workshop in a local jupyter environment, it is easier to use a prepared machine. The AML service offers the Notebook VMs for this.
+While you can easily run the workshop in a local jupyter environment, it is easier to use a prepared machine. The AML service offers the Compute Instances for this.
 
-1) To create a notebook VM, first access your AML workspace that created before from within the Azure portal.
+1) To create a Compute Instance, first access your AML workspace that created before from within the Azure portal.
 2) Open the new Machine Learning studio UI experience by clicking on the blue "Launch now" button
-3) In the newly opened browser window, click on "Compute", make sure you are in the "Notebook VM" pane and hit "+ New" and create a new VM. You can accept the default VM size.
+3) In the newly opened browser window, click on "Compute", make sure you are in the "Compute Instance" pane and hit "+ New" and create a new VM. You can accept the default VM size.
 4) The VM should be ready after just a few minutes.
-5) Once the VM is provisioned, you will see the links to JupyterLab, Jupyter and R-Studio. Click on "Jupyter" to get started.
+5) Once the VM is provisioned, you will see the links to JupyterLab, Jupyter and R-Studio. You can use the "JupyterLab" then Terminal to clone this repository and access the Notebooks. Click on "Jupyter" to get started working on the challenge notebooks.
