@@ -3,21 +3,7 @@
 ################################################################################
 
 *.sqlite
-/Solutions/Bonus/.ipynb_checkpoints
-/Solutions/1. Challenge/.ipynb_checkpoints
 *.suo
 /.vs
 /.azureml
-/Solutions/2. Challenge/.ipynb_checkpoints
-/Solutions/1. Challenge/train
-/Solutions/2. Challenge/train
-/1. Introduction/.ipynb_checkpoints
-/1. Introduction/.azureml
-/config.json
-/2. Challenges/.ipynb_checkpoints
-/Solutions/3. Challenge/.ipynb_checkpoints
-/Solutions/4. Challenge/.ipynb_checkpoints
-/Solutions/3. Challenge/train
-/solutions/challenge_2/.ipynb_checkpoints
-/solutions/challenge_4/.ipynb_checkpoints
-/.ipynb_checkpoints
+.ipynb_checkpoints
